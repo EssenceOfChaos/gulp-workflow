@@ -1,0 +1,17 @@
+@import 'variables';
+@import 'mixins';
+@import 'custom';
+
+
+body {
+	background-color: lightgrey;
+}
+
+h1 {
+	color: red;
+}
+
+p {
+	color: green;
+
+}
